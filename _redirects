@@ -1,1 +1,1 @@
-/tunnel https://net.farmeo.ir:443 200
+/tunnel/*  https://net.farmeo.ir/tunnel/:splat  200
